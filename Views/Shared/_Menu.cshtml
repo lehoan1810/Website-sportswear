@@ -1,0 +1,71 @@
+﻿
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Chủ</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/Content/assets/css/TrangChubase.css">
+    <link rel="stylesheet" href="~/Content/assets/css/TrangChumain.css">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Regular.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Medium.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Light.ttf">
+    <link rel="stylesheet" href="~/Content/assets/icon/fontawesome-free-5.14.0-web/css/all.min.css">
+    <style>
+        .header {
+            background-color:white;
+        }
+    </style>
+
+</head>
+<div class="header">
+    <div class="container">
+        <div class="logo">
+            <a href="">HQ Sports ~~</a>
+        </div>
+        <div class="contact-info">
+            <ul>
+                <li>
+                    <div class="contact-icon">
+                        <i class="fas fa-user-edit"></i>
+                    </div>
+                    <div class="contact-text">
+                        <label>Name</label>
+                        <span>LeHoan</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="contact-icon">
+                        <i class="fas fa-user-edit"></i>
+                    </div>
+                    <div class="contact-text">
+                        <label>Name</label>
+                        <span>AnhQuoc</span>
+                    </div>
+                </li>
+                @{
+                    if (Session["UserName"] == null)
+                    {
+                        <li>
+                            <a href="/Home/LogUp" class="register logup">Đăng kí</a>
+                        </li>
+                        <li>
+                            <a href="/Home/LogIn" class="register login">Đăng nhập</a>
+                        </li>
+                    }
+                    else
+                    {
+                        if (Session["Lever"].ToString() == "0")
+                        {
+                            <li>
+                                <a href="@Url.Action("ProductManage","Product")" class="register logup">Manage</a>
+                            </li>
+                        }
+                        <li>
+                            <a href="@Url.Action("Logout","Home")" class="register login">Log out</a>
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+    </div>
+</div>

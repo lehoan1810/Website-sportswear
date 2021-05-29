@@ -1,0 +1,121 @@
+﻿@model banhang.Models.Order
+
+@{
+    ViewBag.Title = "DonHang";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+<style>
+
+    td {
+        padding: 10px;
+        text-align: center;
+        color: black;
+    }
+
+    th {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background-color: #4d8bd3;
+        color: white;
+    }
+</style>
+<h2>Chi tiết đơn hàng</h2>
+
+<div style="background-color:white">
+    <table>
+        <tr>
+            <td>
+                <strong>Địa chỉ</strong>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.DiaChi)
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <strong>Ghi chú</strong>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.GhiChu)
+            </td>
+        </tr>
+       
+        <tr>
+            <td>
+                <strong>Ngày đặt</strong>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.NgayDat)
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <strong>Trạng thái</strong>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.TrangThai)
+            </td>
+        </tr>
+       
+        <tr>
+            <td>
+                <strong>Tổng</strong>
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => model.Tong)
+            </td>
+        </tr>
+        
+    </table>
+    <table width="100%">
+        <tr>
+            <th>
+                Sản phẩm
+            </th>
+            <th>
+                Hình ảnh
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Giá
+            </th>
+        </tr>
+        @{
+            foreach (banhang.Models.Item t in  Model.items)
+            {
+                var total = t.Quantity * t.Product.Price;
+                <tr>
+                    <td>
+                         <a href="@Url.Action("Details","Products",new { id = t.ProductId })">@t.Product.ProductName</a>
+                    </td>
+                    @if (t.Product.Image != null)
+                    {
+                        var imgSrc = String.Format(@"/upload/{0}", t.Product.Image);
+                        <td><img src="@imgSrc" style="width:300px;" /></td>
+                    }
+                    else
+                    {
+
+                        <td>No Image</td>
+                    }
+                    <td>
+                        @t.Quantity
+                    </td>
+                    <td>
+                        @total
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>

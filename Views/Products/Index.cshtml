@@ -1,0 +1,231 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+@model PagedList.IPagedList<banhang.Models.Product>
+@using PagedList.Mvc;
+<style>
+    .haha {
+        background-color: white;
+        padding: 10px;
+    }
+
+    table {
+        width: 100%;
+        padding: 10px;
+        border-collapse: collapse;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+
+    td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        color: black;
+    }
+
+    th {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background-color: #4d8bd3;
+        color: white;
+    }
+
+    .page-list a:hover {
+        background-color: #AD999A;
+    }
+
+    .page-list a {
+        text-decoration: none;
+        display: block;
+        height: 25px;
+        width: 40px;
+        background-color: #DEC6C7;
+        text-align: center;
+        padding-top: 4px;
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+        
+    }
+
+    .btn-edit a {
+        text-decoration: none;
+        display:inline-block;
+        height: 27px;
+        width: 57px;
+        background-color: #DEC6C7;
+        text-align: center;
+        padding-top: 4px;
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+        color:saddlebrown;
+        border-radius:10px;
+        border: 2px solid rgba(0, 0, 0, 0.3);
+        font-size:14px;
+        
+    }
+
+    .btn-edit a:hover{
+        background-color:burlywood;
+    }
+
+    .page-list ul {
+        display: flex;
+    }
+
+    .page-list li {
+        list-style: none;
+        margin: 15px -14px 15px 15px;
+        border: 2px solid #333;
+    }
+    .btn-edit {
+        width: 215px;
+        align-items:center;
+        
+    }
+    .gear{
+        font-size:28px;
+        color:black;
+    }
+
+    .btn-create a {
+        position: absolute;       
+        text-decoration: none;
+        color: red;      
+        line-height: 30px;
+        padding-left: 8px;      
+        font-weight: 600;
+    }
+    .btn-create{
+        cursor:pointer;
+        display:inline-block;
+    }
+    .btn-create i{
+        font-size:30px;
+    }
+
+    .form__horizontal {
+        position: absolute;
+        right: 212px;
+        top: 92px;
+        
+    }
+    .form__horizontal i{
+        color:green;
+        font-size:20px;
+    }
+    .form__horizontal label{
+        font-weight:600;
+        color:red;
+    }
+    .form__horizontal input{
+        padding:5px 0 5px 0;
+        font-size:14px;
+    }
+
+    .btn-default {
+        width: 50px;
+        height: 24px;
+        line-height: 0px;
+        font-size: 15px;
+    }
+
+    .form-groupp{
+
+    }
+    
+</style>
+<h2 style="padding:10px;width:217px">Tất Cả Sản Phẩm</h2>
+@using (Html.BeginForm("Import", "Products", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+<div class="form__horizontal">
+    <i class="far fa-file-excel"></i>
+    <label>CREATE TO EXCEL</label>
+    <br>
+    <input type="file" name="FileUpload1" accept=".xlsx" />
+
+    <div class="form-groupp">
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Thêm" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+    
+
+</div>
+}
+
+<p class="btn-create" , style="padding:10px">
+    <i class="fas fa-plus-circle"></i>
+    @Html.ActionLink("CREATE", "Create")
+</p>
+<div class="haha">
+    <table class="table">
+        <tr>
+            <th>
+                Tên Sản Phẩm
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Danh Mục
+            </th>
+            <th>
+                Hình
+            </th>
+            <th >
+                Ngày Thêm
+            </th>
+            <th class="gear"><i class="fas fa-cogs"></i></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+                @if (item.Image != null)
+                {
+                    var imgSrc = String.Format(@"/upload/{0}", item.Image);
+                    <td><img src="@imgSrc" style="width:120px;height:120px;" /></td>
+                }
+                else
+                {
+
+                    <td>No Image</td>
+                }
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgayThem)
+                </td>
+                <td class="btn-edit">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.idProduct }) |
+                    @Html.ActionLink("Chi tiết", "Details", new { id = item.idProduct }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.idProduct })
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div class="page-list">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </div>
+</div>

@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "View";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VyVy</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/Content/assets/css/LogInbase.css">
+    <link rel="stylesheet" href="~/Content/assets/css/LogInmain.css">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Regular.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Medium.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Light.ttf">
+    <link rel="stylesheet" href="~/Content/assets/icon/fontawesome-free-5.14.0-web/css/all.min.css">
+</head>
+<body>
+    <div class="cont">
+        <form action="/Home/Login" method="post">
+            <h2>Sign in</h2>
+            <label>
+                <span>Username</span>
+                <input type="text" name="username">
+            </label>
+
+            <label>
+                <span>Password</span>
+                <input type="Password" name="password">
+            </label>
+            <input class="submit" type=submit value="Sign in"/>
+            
+            <p class="forgot-pass">Forgot Password ?</p>
+            <div class="social-media">
+                <ul class="icon">
+                    <li class="icon-item">
+                        <a href="" class="icon-item_link">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li class="icon-item">
+                        <a href="" class="icon-item_link">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                    </li>
+                    <li class="icon-item">
+                        <a href="" class="icon-item_link">
+                            <i class="fab fa-twitter-square"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="sub-cont">
+                <div class="img">
+                    <div class="img-btn">
+                        <button class="m-up">Sign In</button>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+    </div>
+    <scripts src="./assets/js/script.js"></scripts>
+</body>
+</html>

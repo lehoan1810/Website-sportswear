@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<h2>Doanh thu</h2>
+<button id="nam" class="doanhthu-button">Năm qua</button>
+<button id="thang" class="doanhthu-button">Tháng qua</button>
+<canvas id="myChart"></canvas>
+<script src="~/Content/Chartjs/Chart.bundle.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(function () {
+        $(".doanhthu-button").click(function () {
+            var tg = $(this).attr("id");
+            $.ajax({
+                url: "/Users/Chartdata",
+                data: { tg: tg },
+                success: function (response) {
+                    var doanhthu = response;
+                    var labels = new Array(doanhthu.length);
+                    var i;
+                    for (i = 0; i < doanhthu.length; i++) {
+                        labels[i]=i+1;
+                    } 
+                    var ctx = document.getElementById('myChart').getContext('2d');
+                    var chart = new Chart(ctx, {
+                        type: 'line',
+                        data: {
+                            labels: labels,
+                            datasets: [{
+                                label: 'Doanh thu',
+                                backgroundColor: 'rgb(0, 0, 0, 0)',
+                                borderColor: 'rgb(255, 99, 132)',
+                                data: doanhthu,
+                                lineTension: 0
+                            }]
+                        },
+                        options: {}
+                    });
+                }
+            });
+        });
+    });
+
+</script>

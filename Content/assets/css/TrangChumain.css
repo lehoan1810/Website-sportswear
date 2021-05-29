@@ -1,0 +1,293 @@
+
+/* chữ chạy */
+.Creeping{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.product span{
+    padding-top: 50px;
+    font-size: 40px;
+    display: block;
+    text-align: center;
+}
+
+/* thanh sổ */
+.soccer-clothes-menu{
+    position: absolute; 
+    background-color: rgb(228, 222, 222);
+    list-style: none;
+    width: 112px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px #e0e0e0;
+    display: none;
+}
+
+.soccer-clothes-menu a{
+    margin-right: 0;
+    text-decoration: none;
+    line-height: 30px;
+    padding-left: 8px;
+    font-size: 14px;
+    color: rgb(124, 88, 88);
+}
+
+.soccer-clothes:hover .soccer-clothes-menu{
+    display: block;
+}
+
+/*sản phẩm*/
+.san-pham {
+    position: relative;
+    top: 50px;
+}
+
+.san-pham-icon {
+    font-size: 80px;
+    color: #D12757;
+    position: absolute;
+    left: 390px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    min-width: 35px;
+    width: 38%;
+    margin: 0 auto;
+    border-bottom: 5px double #333;
+    text-transform: uppercase;
+}
+
+.dong-san-pham-box {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    height: 350px;
+    padding: 0 0 10px 10px;
+}
+
+.dong-san-pham {
+    width: 90%;
+    height: 260px;
+    margin: 0 auto;
+    margin-left: 108px;
+    margin-top: 50px;
+    border-bottom: 5px double #333;
+}
+
+.img-dong-san-pham {
+    float: left;
+    margin-right: 25px;
+}
+
+    .img-dong-san-pham img {
+        width: 200px;
+        height: 200px;
+        border-radius: 110px;
+        border: 4px solid red;
+        float: left;
+        margin-right: 40px;
+        object-fit:cover;
+    }
+
+/* những sản phẩm mới về */
+.product-text {
+    padding-top: 150px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    min-width: 35px;
+    width: 38%;
+    margin: 0 auto;
+    border-bottom: 5px double #333;
+    font-weight: 550;
+}
+
+.list-san-pham {
+}
+
+.sp1 {
+    display: inline-block;
+    background-color: #B5A6AB;
+    width: 320px;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.sp1-box {
+    display: inline-block;
+    padding: 0 43px 40px 43px;
+}
+
+.sp-box {
+    padding: 30px 12px 0 56px;
+}
+
+.sp-item img {
+    width: 280px;
+    height: 310px;
+    border-radius: 3px;
+}
+
+.sp1-name {
+    position: relative;
+    color: #333;
+}
+
+.sp1-action-icon {
+    display: flex;
+    width: 30px;
+    color: #DE1F34;
+}
+
+/* các nhãn hàng đc yêu thích */
+.logo-nhan-hang {
+    padding: 0 37px 0 37px;
+}
+
+.text-nhan {
+    margin-top: -100px;
+}
+
+.logo-name {
+    font-size: 20px;
+}
+
+.logo-image {
+    display: flex;
+}
+
+.logo-image-item img {
+    width: 300px;
+    padding: 20px 0px 20px 0;
+}
+
+.logo-image-item {
+    padding-right: 80px;
+}
+
+.item-fila {
+    padding-top: 45px;
+}
+
+/* Css footer */
+
+.sp1-name {
+    font-size: 16px;
+    width: 100px;
+}
+
+.sp1-price {
+    color: #333;
+    width: 100px;
+}
+
+.money {
+    line-height: 30px;
+}
+
+.sp1-action {
+    font-size: 16px;
+    width: 100px;
+    margin-left: 187px;
+}
+
+//sản phẩm mới về
+.card {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    position: relative;
+    border-radius: 2px;
+    box-sizing: border-box;
+    border-bottom: solid 1px #333;
+    
+}
+
+.card-mode {
+    z-index: 2;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.4s ease;
+    border-radius: 100%;
+    transform: rotate(0deg);
+}
+
+.card_img img {
+    object-fit: cover;
+    overflow: hidden;
+    /* position: absolute; */
+    z-index: 1;
+    border-radius: 2px;
+    cursor: grabbing;
+    width: 260px;
+    height: 370px;
+}
+
+.card_content {
+    //position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    width: 17%;
+    height: 80px;
+    bottom: 0;
+    box-sizing: border-box;
+    border-radius: 0px 0px 2px 2px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    padding: 0 10px;
+    transition: all 0.4s ease;
+    //top:939px;
+}
+
+.card_title {
+    font-size: 18px;
+    color: #de759a;
+    text-transform: uppercase;
+    -webkit-animation-fill-color: transparent;
+    margin-bottom: 5px;
+    cursor: text;
+}
+
+.card_price {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.card_priceFinal {
+    margin-right: 5px;
+}
+
+.card_priceOriginal {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.card_btn {
+    text-decoration: uppercase;
+    /* font-size: 25px; */
+    font-weight: 400;
+    cursor: pointer;
+    /* border-radius: 30px solid #333; */
+    border-radius: 14px;
+    background-image: linear-gradient( to bottom, #ee8bf0, #c68ef2, #9c8fee, #748ee3, #4d8bd3 );
+    margin-left:45px;
+}
+
+    .card_btn span {
+        font-size: 25px;
+        width: 20px;
+        color: rgb(41, 37, 37);
+    }

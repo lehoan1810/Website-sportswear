@@ -1,0 +1,1167 @@
+C:\Users\Asus\source\repos\banhang\bin\banhang.dll.config
+C:\Users\Asus\source\repos\banhang\bin\banhang.dll
+C:\Users\Asus\source\repos\banhang\bin\banhang.pdb
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\source\repos\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\source\repos\banhang\bin\WebGrease.dll
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\source\repos\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\source\repos\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\source\repos\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\source\repos\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\source\repos\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\source\repos\banhang\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\banhang\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\banhang\bin\PagedList.dll
+C:\Users\Asus\source\repos\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\source\repos\banhang\bin\PagedList.xml
+C:\Users\Asus\source\repos\banhang\bin\PagedList.Mvc.xml
+Q:\banhang\bin\banhang.dll.config
+Q:\banhang\bin\banhang.dll
+Q:\banhang\bin\banhang.pdb
+Q:\banhang\bin\roslyn\csc.exe
+Q:\banhang\bin\roslyn\csc.exe.config
+Q:\banhang\bin\roslyn\csc.rsp
+Q:\banhang\bin\roslyn\csi.exe
+Q:\banhang\bin\roslyn\csi.exe.config
+Q:\banhang\bin\roslyn\csi.rsp
+Q:\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\banhang\bin\roslyn\System.AppContext.dll
+Q:\banhang\bin\roslyn\System.Collections.Immutable.dll
+Q:\banhang\bin\roslyn\System.Console.dll
+Q:\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\banhang\bin\roslyn\System.Globalization.Calendars.dll
+Q:\banhang\bin\roslyn\System.IO.Compression.dll
+Q:\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\banhang\bin\roslyn\System.IO.FileSystem.dll
+Q:\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\banhang\bin\roslyn\System.Net.Http.dll
+Q:\banhang\bin\roslyn\System.Net.Sockets.dll
+Q:\banhang\bin\roslyn\System.Reflection.Metadata.dll
+Q:\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\banhang\bin\roslyn\System.ValueTuple.dll
+Q:\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\banhang\bin\roslyn\System.Xml.XPath.dll
+Q:\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\banhang\bin\roslyn\vbc.exe
+Q:\banhang\bin\roslyn\vbc.exe.config
+Q:\banhang\bin\roslyn\vbc.rsp
+Q:\banhang\bin\roslyn\VBCSCompiler.exe
+Q:\banhang\bin\roslyn\VBCSCompiler.exe.config
+Q:\banhang\bin\Antlr3.Runtime.dll
+Q:\banhang\bin\EntityFramework.dll
+Q:\banhang\bin\EntityFramework.SqlServer.dll
+Q:\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\banhang\bin\Microsoft.Web.Infrastructure.dll
+Q:\banhang\bin\Newtonsoft.Json.dll
+Q:\banhang\bin\PagedList.dll
+Q:\banhang\bin\PagedList.Mvc.dll
+Q:\banhang\bin\System.Web.Helpers.dll
+Q:\banhang\bin\System.Web.Mvc.dll
+Q:\banhang\bin\System.Web.Optimization.dll
+Q:\banhang\bin\System.Web.Razor.dll
+Q:\banhang\bin\System.Web.WebPages.Deployment.dll
+Q:\banhang\bin\System.Web.WebPages.dll
+Q:\banhang\bin\System.Web.WebPages.Razor.dll
+Q:\banhang\bin\WebGrease.dll
+Q:\banhang\bin\EntityFramework.xml
+Q:\banhang\bin\EntityFramework.SqlServer.xml
+Q:\banhang\bin\PagedList.xml
+Q:\banhang\bin\PagedList.Mvc.xml
+Q:\banhang\bin\System.Web.Helpers.xml
+Q:\banhang\bin\System.Web.Mvc.xml
+Q:\banhang\bin\System.Web.Optimization.xml
+Q:\banhang\bin\System.Web.Razor.xml
+Q:\banhang\bin\System.Web.WebPages.xml
+Q:\banhang\bin\System.Web.WebPages.Deployment.xml
+Q:\banhang\bin\System.Web.WebPages.Razor.xml
+Q:\banhang\bin\Newtonsoft.Json.xml
+Q:\banhang\bin\Antlr3.Runtime.pdb
+Q:\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+Q:\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+Q:\banhang\obj\Debug\banhang.csproj.CopyComplete
+Q:\banhang\obj\Debug\banhang.dll
+Q:\banhang\obj\Debug\banhang.pdb
+Q:\banhang\obj\Debug\banhang.Migrations.InitialCreate.resources
+Q:\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang-verson3\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.Migrations.InitialCreate.resources
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.Migrations.v2.resources
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang-verson3\banhang\obj\Debug\banhang.pdb
+Q:\HỌC WEB\banhang\bin\banhang.dll.config
+Q:\HỌC WEB\banhang\bin\banhang.dll
+Q:\HỌC WEB\banhang\bin\banhang.pdb
+Q:\HỌC WEB\banhang\bin\roslyn\csc.exe
+Q:\HỌC WEB\banhang\bin\roslyn\csc.exe.config
+Q:\HỌC WEB\banhang\bin\roslyn\csc.rsp
+Q:\HỌC WEB\banhang\bin\roslyn\csi.exe
+Q:\HỌC WEB\banhang\bin\roslyn\csi.exe.config
+Q:\HỌC WEB\banhang\bin\roslyn\csi.rsp
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\HỌC WEB\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.AppContext.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Collections.Immutable.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Console.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Globalization.Calendars.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.IO.Compression.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.IO.FileSystem.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Net.Http.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Net.Sockets.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Reflection.Metadata.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.ValueTuple.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Xml.XPath.dll
+Q:\HỌC WEB\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\HỌC WEB\banhang\bin\roslyn\vbc.exe
+Q:\HỌC WEB\banhang\bin\roslyn\vbc.exe.config
+Q:\HỌC WEB\banhang\bin\roslyn\vbc.rsp
+Q:\HỌC WEB\banhang\bin\roslyn\VBCSCompiler.exe
+Q:\HỌC WEB\banhang\bin\roslyn\VBCSCompiler.exe.config
+Q:\HỌC WEB\banhang\bin\Antlr3.Runtime.dll
+Q:\HỌC WEB\banhang\bin\EntityFramework.dll
+Q:\HỌC WEB\banhang\bin\EntityFramework.SqlServer.dll
+Q:\HỌC WEB\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\HỌC WEB\banhang\bin\Microsoft.Web.Infrastructure.dll
+Q:\HỌC WEB\banhang\bin\Newtonsoft.Json.dll
+Q:\HỌC WEB\banhang\bin\PagedList.dll
+Q:\HỌC WEB\banhang\bin\PagedList.Mvc.dll
+Q:\HỌC WEB\banhang\bin\System.Web.Helpers.dll
+Q:\HỌC WEB\banhang\bin\System.Web.Mvc.dll
+Q:\HỌC WEB\banhang\bin\System.Web.Optimization.dll
+Q:\HỌC WEB\banhang\bin\System.Web.Razor.dll
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.Deployment.dll
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.dll
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.Razor.dll
+Q:\HỌC WEB\banhang\bin\WebGrease.dll
+Q:\HỌC WEB\banhang\bin\EntityFramework.xml
+Q:\HỌC WEB\banhang\bin\EntityFramework.SqlServer.xml
+Q:\HỌC WEB\banhang\bin\PagedList.xml
+Q:\HỌC WEB\banhang\bin\PagedList.Mvc.xml
+Q:\HỌC WEB\banhang\bin\System.Web.Helpers.xml
+Q:\HỌC WEB\banhang\bin\System.Web.Mvc.xml
+Q:\HỌC WEB\banhang\bin\System.Web.Optimization.xml
+Q:\HỌC WEB\banhang\bin\System.Web.Razor.xml
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.xml
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.Deployment.xml
+Q:\HỌC WEB\banhang\bin\System.Web.WebPages.Razor.xml
+Q:\HỌC WEB\banhang\bin\Newtonsoft.Json.xml
+Q:\HỌC WEB\banhang\bin\Antlr3.Runtime.pdb
+Q:\HỌC WEB\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\HỌC WEB\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+Q:\HỌC WEB\banhang\obj\Debug\banhang.Migrations.InitialCreate.resources
+Q:\HỌC WEB\banhang\obj\Debug\banhang.Migrations.v2.resources
+Q:\HỌC WEB\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+Q:\HỌC WEB\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+Q:\HỌC WEB\banhang\obj\Debug\banhang.csproj.CopyComplete
+Q:\HỌC WEB\banhang\obj\Debug\banhang.dll
+Q:\HỌC WEB\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang5\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang5\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang5\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang5\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang5\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.Migrations.InitialCreate.resources
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang5\banhang\obj\Debug\banhang.Migrations.v9.resources
+Q:\banhang\obj\Debug\banhang.Migrations.v9.resources
+C:\Users\Asus\Desktop\banhang6\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang6\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang6\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang6\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang6\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.Migrations.InitialCreate.resources
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.Migrations.v9.resources
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang6\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang8\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang8\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang8\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang8\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang8\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.Migrations._1.resources
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang8\banhang\obj\Debug\banhang.Migrations._2.resources
+C:\Users\Puimekster\Desktop\banhang\bin\banhang.dll.config
+C:\Users\Puimekster\Desktop\banhang\bin\banhang.dll
+C:\Users\Puimekster\Desktop\banhang\bin\banhang.pdb
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csc.exe
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csc.exe.config
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csc.rsp
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csi.exe
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csi.exe.config
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\csi.rsp
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Console.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\vbc.exe
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\vbc.rsp
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Puimekster\Desktop\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Puimekster\Desktop\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Puimekster\Desktop\banhang\bin\EntityFramework.dll
+C:\Users\Puimekster\Desktop\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Puimekster\Desktop\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Puimekster\Desktop\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Puimekster\Desktop\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Puimekster\Desktop\banhang\bin\PagedList.dll
+C:\Users\Puimekster\Desktop\banhang\bin\PagedList.Mvc.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Helpers.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Mvc.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Optimization.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Razor.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.dll
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Puimekster\Desktop\banhang\bin\WebGrease.dll
+C:\Users\Puimekster\Desktop\banhang\bin\EntityFramework.xml
+C:\Users\Puimekster\Desktop\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Puimekster\Desktop\banhang\bin\PagedList.xml
+C:\Users\Puimekster\Desktop\banhang\bin\PagedList.Mvc.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Helpers.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Mvc.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Optimization.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.Razor.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Puimekster\Desktop\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Puimekster\Desktop\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Puimekster\Desktop\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Puimekster\Desktop\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.Migrations._1.resources
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.Migrations._2.resources
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.dll
+C:\Users\Puimekster\Desktop\banhang\obj\Debug\banhang.pdb
+H:\tài liệu của Hoàn\banhang\bin\banhang.dll.config
+H:\tài liệu của Hoàn\banhang\bin\banhang.dll
+H:\tài liệu của Hoàn\banhang\bin\banhang.pdb
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csc.exe
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csc.exe.config
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csc.rsp
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csi.exe
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csi.exe.config
+H:\tài liệu của Hoàn\banhang\bin\roslyn\csi.rsp
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\tài liệu của Hoàn\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.AppContext.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Collections.Immutable.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Console.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Globalization.Calendars.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.IO.Compression.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.IO.FileSystem.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Net.Http.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Net.Sockets.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Reflection.Metadata.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.ValueTuple.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Xml.XPath.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\tài liệu của Hoàn\banhang\bin\roslyn\vbc.exe
+H:\tài liệu của Hoàn\banhang\bin\roslyn\vbc.exe.config
+H:\tài liệu của Hoàn\banhang\bin\roslyn\vbc.rsp
+H:\tài liệu của Hoàn\banhang\bin\roslyn\VBCSCompiler.exe
+H:\tài liệu của Hoàn\banhang\bin\roslyn\VBCSCompiler.exe.config
+H:\tài liệu của Hoàn\banhang\bin\Antlr3.Runtime.dll
+H:\tài liệu của Hoàn\banhang\bin\EntityFramework.dll
+H:\tài liệu của Hoàn\banhang\bin\EntityFramework.SqlServer.dll
+H:\tài liệu của Hoàn\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\tài liệu của Hoàn\banhang\bin\Microsoft.Web.Infrastructure.dll
+H:\tài liệu của Hoàn\banhang\bin\Newtonsoft.Json.dll
+H:\tài liệu của Hoàn\banhang\bin\PagedList.dll
+H:\tài liệu của Hoàn\banhang\bin\PagedList.Mvc.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Helpers.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Mvc.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Optimization.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Razor.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.Deployment.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.dll
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.Razor.dll
+H:\tài liệu của Hoàn\banhang\bin\WebGrease.dll
+H:\tài liệu của Hoàn\banhang\bin\EntityFramework.xml
+H:\tài liệu của Hoàn\banhang\bin\EntityFramework.SqlServer.xml
+H:\tài liệu của Hoàn\banhang\bin\PagedList.xml
+H:\tài liệu của Hoàn\banhang\bin\PagedList.Mvc.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Helpers.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Mvc.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Optimization.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.Razor.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.Deployment.xml
+H:\tài liệu của Hoàn\banhang\bin\System.Web.WebPages.Razor.xml
+H:\tài liệu của Hoàn\banhang\bin\Newtonsoft.Json.xml
+H:\tài liệu của Hoàn\banhang\bin\Antlr3.Runtime.pdb
+H:\tài liệu của Hoàn\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.Migrations._1.resources
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.Migrations._2.resources
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.csproj.CopyComplete
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.dll
+H:\tài liệu của Hoàn\banhang\obj\Debug\banhang.pdb
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\banhang.dll.config
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\banhang.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\banhang.pdb
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csc.exe
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csc.exe.config
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csc.rsp
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csi.exe
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csi.exe.config
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\csi.rsp
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.AppContext.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Collections.Immutable.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Console.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Globalization.Calendars.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.IO.Compression.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.IO.FileSystem.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Net.Http.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Net.Sockets.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Reflection.Metadata.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.ValueTuple.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Xml.XPath.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\vbc.exe
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\vbc.exe.config
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\vbc.rsp
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\VBCSCompiler.exe
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\roslyn\VBCSCompiler.exe.config
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Antlr3.Runtime.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\EntityFramework.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\EntityFramework.SqlServer.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Microsoft.Web.Infrastructure.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Newtonsoft.Json.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\PagedList.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\PagedList.Mvc.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Helpers.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Mvc.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Optimization.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Razor.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.Deployment.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.Razor.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\WebGrease.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\EntityFramework.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\EntityFramework.SqlServer.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\PagedList.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\PagedList.Mvc.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Helpers.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Mvc.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Optimization.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.Razor.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.Deployment.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\System.Web.WebPages.Razor.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Newtonsoft.Json.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Antlr3.Runtime.pdb
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.Migrations._1.resources
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.Migrations._2.resources
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.csproj.CopyComplete
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.dll
+Q:\STUDINGS\NĂM 3-HK1\LTWEB\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang14\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang14\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang14\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang14\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang14\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.Migrations._1.resources
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.Migrations._2.resources
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang14\banhang\obj\Debug\banhang.pdb
+C:\Users\Asus\Desktop\banhang16\banhang\bin\banhang.dll.config
+C:\Users\Asus\Desktop\banhang16\banhang\bin\banhang.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\banhang.pdb
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\banhang16\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\PagedList.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\WebGrease.dll
+C:\Users\Asus\Desktop\banhang16\banhang\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\PagedList.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\banhang16\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.Migrations._1.resources
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.Migrations._2.resources
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.dll
+C:\Users\Asus\Desktop\banhang16\banhang\obj\Debug\banhang.pdb
+C:\Users\hoanh\Music\banhang\bin\banhang.dll.config
+C:\Users\hoanh\Music\banhang\bin\banhang.dll
+C:\Users\hoanh\Music\banhang\bin\banhang.pdb
+C:\Users\hoanh\Music\banhang\bin\roslyn\csc.exe
+C:\Users\hoanh\Music\banhang\bin\roslyn\csc.exe.config
+C:\Users\hoanh\Music\banhang\bin\roslyn\csc.rsp
+C:\Users\hoanh\Music\banhang\bin\roslyn\csi.exe
+C:\Users\hoanh\Music\banhang\bin\roslyn\csi.exe.config
+C:\Users\hoanh\Music\banhang\bin\roslyn\csi.rsp
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoanh\Music\banhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.AppContext.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Console.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Net.Http.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoanh\Music\banhang\bin\roslyn\vbc.exe
+C:\Users\hoanh\Music\banhang\bin\roslyn\vbc.exe.config
+C:\Users\hoanh\Music\banhang\bin\roslyn\vbc.rsp
+C:\Users\hoanh\Music\banhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoanh\Music\banhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoanh\Music\banhang\bin\Antlr3.Runtime.dll
+C:\Users\hoanh\Music\banhang\bin\EntityFramework.dll
+C:\Users\hoanh\Music\banhang\bin\EntityFramework.SqlServer.dll
+C:\Users\hoanh\Music\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoanh\Music\banhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoanh\Music\banhang\bin\Newtonsoft.Json.dll
+C:\Users\hoanh\Music\banhang\bin\PagedList.dll
+C:\Users\hoanh\Music\banhang\bin\PagedList.Mvc.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.Helpers.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.Mvc.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.Optimization.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.Razor.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.dll
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoanh\Music\banhang\bin\WebGrease.dll
+C:\Users\hoanh\Music\banhang\bin\EntityFramework.xml
+C:\Users\hoanh\Music\banhang\bin\EntityFramework.SqlServer.xml
+C:\Users\hoanh\Music\banhang\bin\PagedList.xml
+C:\Users\hoanh\Music\banhang\bin\PagedList.Mvc.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.Helpers.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.Mvc.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.Optimization.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.Razor.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoanh\Music\banhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoanh\Music\banhang\bin\Newtonsoft.Json.xml
+C:\Users\hoanh\Music\banhang\bin\Antlr3.Runtime.pdb
+C:\Users\hoanh\Music\banhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.csprojAssemblyReference.cache
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.Migrations._1.resources
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.Migrations._2.resources
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.csproj.CopyComplete
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.dll
+C:\Users\hoanh\Music\banhang\obj\Debug\banhang.pdb

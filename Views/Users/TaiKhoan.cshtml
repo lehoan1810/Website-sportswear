@@ -1,0 +1,332 @@
+﻿@model banhang.Models.User
+
+@{
+    ViewBag.Title = "TaiKhoan";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<style>
+    .body-wraper {
+        display: flex;
+    }
+
+    .user-menu {
+        width: 200px;
+        height: 1000px;
+        margin: 0 10px 0 0;
+    }
+
+    .body-content {
+        background-color: #F3F1F5;
+        padding: 15px;
+        width: 65%;
+        font-size: 13px;
+    }
+
+    
+
+    button:focus {
+        outline: 0;
+    }
+
+    .bar {
+        padding: 0px;
+        margin: 0px 0px 2px 0px;
+        background-color: white;
+        border-bottom: solid 1px;
+        border-bottom-color: darkgrey;
+    }
+
+        .bar button {
+            border: none;
+            color: dimgrey;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin: 0px;
+            cursor: pointer;
+            font-size: 13px;
+            background-color: white;
+        }
+
+        .bar .order-button.b {
+            border-bottom: solid 3px;
+            border-bottom-color: black;
+            color: black;
+            font-weight: bold;
+        }
+
+    .orders table {
+        padding: 15px;
+        width: 100%;
+        border-collapse:collapse;
+    }
+    .orders table th{
+        background-color:#e5e5e5;
+    }
+    .orders th, td {
+        padding: 15px;
+        color: dimgray;
+        text-align: left;
+    }
+    .user-menu-button {
+        width:100%;
+        border: none;
+        color: dimgrey;
+        padding: 10px;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+        margin: 0px;
+        cursor: pointer;
+        font-size: 13px;
+        background-color:transparent;
+    }
+    .user-menu-button.a{
+        background-color:#F3F1F5;
+        font-weight:bold;
+    }
+
+    .box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        height: 500px;
+        background: #000;
+        border-radius: 15px;
+        /* z-index: 1; */
+        overflow: hidden;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    }
+
+    .imgBx img {
+        width: 400px;
+        height: 500px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: 0.5s;
+        z-index: 2;
+        background: #000;
+    }
+
+    .box:hover .imgBx img {
+        opacity: 0.5;
+    }
+
+    .social-icon {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 3;
+        display: flex;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+        .social-icon li {
+            list-style: none;
+            font-size: 22px;
+        }
+
+            .social-icon li a {
+                position: relative;
+                display: block;
+                width: 40px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                background: #fff;
+                color: #262626;
+                margin: 0 5px;
+                border-radius: 50%;
+                transition: 0.5s;
+                opacity: 0;
+                transform: translateY(150px);
+            }
+
+    .box:hover .social-icon li a {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+
+    .detail {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: #fff;
+        width: 100%;
+        z-index: 4;
+        height: 70px;
+        box-sizing: border-box;
+    }
+
+        .detail h2 {
+            margin: 10px 0 0;
+            padding: 0;
+            text-align: center;
+        }
+
+            .detail h2 span {
+                color: #bbb;
+                font-size: 16px;
+            }
+</style>
+<div class="body-wraper">
+
+    <div class="user-menu">
+        <h3 style="padding:15px 0 15px 0;">Hello @Session["Username"].ToString()</h3>
+        <div>
+            <div>
+                <button id="1" class="user-menu-button a">Thông tin tài khoản</button>
+                <button id="2" class="user-menu-button">Đơn hàng</button>
+                @if (int.Parse(Session["Level"].ToString()) < 2)
+                {
+                    <a id="3" class="user-menu-button" href="/Users/Index">Người dùng</a>
+                    <a id="4" class="user-menu-button" href="/Products/Index">Quản lí sản phẩm</a>
+                    <button id="4" class="user-menu-button">Thống kê doanh số</button>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="body-content">
+
+        <div id="body1" class="user-body">
+            <div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="~/Content/assets/img/h3.jpeg" alt="">
+                    </div>
+                    <ul class="social-icon">
+                        <li><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
+                    </ul>
+                    <div class="detail">
+                        <h2>
+                            @Html.DisplayFor(model => model.Username) <br>
+                            <span>@Html.DisplayFor(model => model.Email)</span>
+                        </h2>
+                    </div>
+                </div>
+                @*<dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Username)
+                    </dd>
+                    <br />
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+                </dl>*@
+            </div>
+        </div>
+        <div id="body2" class="user-body" style="display: none;">
+            <div class="bar">
+                <button stat="TatCa" class="order-button b">Tất cả</button>
+                <button stat="ChoXacNhan" class="order-button">Chờ xác nhận</button>
+                <button stat="ChoLayHang" class="order-button">Chờ lấy hàng</button>
+                <button stat="DangGiao" class="order-button">Đang giao</button>
+                <button stat="DaGiao" class="order-button">Đã giao</button>
+                <button stat="DaHuy" class="order-button">Đã hủy</button>
+            </div>
+            <div class="tabs">
+                <div class="orders">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Đơn hàng</th>
+                                <th>Tổng đơn hàng</th>
+                                <th>Trạng Thái</th>
+                                <th>Thao tác</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table1" id="1">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+       @if ((String)Session["Level"] != "3")
+        {
+            <div id="body4" class="user-body" style="display: none">
+                @{
+                    Html.RenderPartial("~/Views/Users/Chart.cshtml");
+                }
+            </div>
+        }
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    function loadDonHang(stat) {
+        $.ajax({
+            url: "/Users/GetOrders",
+            data: { stat: stat },
+            success: function (response) {
+                $(".table1").html("");
+                $(response).each(function (i, e) {
+                    var tr = $("<tr/>");
+                    tr.append('<td><a href="/Users/ChiTietDonHang/' + e.OrderID + '">' + e.OrderID + '</a> </td>')
+                    $("<td/>").html(e.Tong).appendTo(tr);
+                    $("<td/>").html(e.TrangThai).appendTo(tr);
+                    if (stat !== "TatCa" && stat !== "DaGiao" && stat !== "DaHuy" && @Session["Level"].ToString() != "3") {
+                            tr.append('<td><button class="xacnhan-button" OrderID="' + e.OrderID + '">Xác nhận</button></td>');
+                        }
+                        else if (@Session["Level"].ToString() == "3" && stat !== "TatCa" && stat !== "DaGiao" && stat !== "DaHuy") {
+
+                            tr.append('<td><button class="xacnhan-button" OrderID="' + e.OrderID + '">Hủy</button></td>');
+                        }
+                    tr.appendTo(".table1");
+                });
+            }
+        });
+    }
+    $(function () {
+        $(".order-button").click(function () {
+            var stat = $(this).attr("stat");
+            $(".order-button").removeClass("order-button b").addClass("order-button");
+            $(this).addClass("order-button b");
+            loadDonHang(stat);
+        });
+    });
+    $(function () {
+        $(".user-menu-button").click(function () {
+            $(".user-menu-button").removeClass("user-menu-button a").addClass("user-menu-button");
+            $(this).addClass("user-menu-button a");
+            $(".user-body").hide();
+            var id = $(this).attr("id");
+            $("#body" + id).show();
+            if (id == "2") {
+                loadDonHang("TatCa");
+            }
+        });
+    })
+    $(function () {
+        $(".table1").on("click",".xacnhan-button",function () {
+            var OrderID = parseInt($(this).attr("OrderID"));
+            $.ajax({
+                url: "/Users/XacNhan",
+                data: { OrderID: OrderID },
+                success: function (response) {
+                    var stat = $(".order-button.b").attr("stat");
+                    loadDonHang(stat);
+                }
+            })
+        })
+    });
+
+</script>

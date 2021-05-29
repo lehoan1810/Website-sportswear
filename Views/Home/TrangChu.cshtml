@@ -1,0 +1,317 @@
+﻿@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    @*<link rel="stylesheet" href="~/Content/assets/css/TrangChubase.css">*@
+
+</head>
+<body>
+
+    @Html.Partial("Navbar")
+    <div class=" banner">
+        <img src="~/Content/assets/img/image1.jpg" alt="">;
+    </div>
+
+    <div class="Creeping">
+        <marquee onmouseover="stop()" onmouseout="start()"
+                 style="        color: rgba(4, 10, 7, 0.664);
+        background-image: linear-gradient(to right top, #e88dc0, #dd99d2, #d0a5e0, 
+        #c3b1e8, #b9bbed, #aec2f3, 
+        #a3c9f6, #9bd0f6, #88d7f8, #75ddf5, #68e3ed, #66e8e0);width: 900px;height: 40px;padding-top: 4px;font-size: 30px;font-family: serif">
+            <b>
+                HQ SPORTS ~~ HÂN HẠNH ĐƯỢC PHỤC VỤ QUÝ KHÁCH !
+                MỌI THẮC MẮC VUI LÒNG LIÊN HỆ HOTLINE : 1900999 ĐỂ ĐƯỢC GIẢI ĐÁP !
+            </b>
+        </marquee>
+    </div>
+
+    <div class="san-pham">
+        <div class="dong-san-pham-box">
+            <i class="fas fa-crown san-pham-icon"></i>
+            <h1>Dòng Sản Phẩm Đáng Chú Ý</h1>
+            <div class="dong-san-pham">
+                <figure class="img-dong-san-pham">
+                    <img src="~/Content/assets/img/h1.jpeg" alt="">
+                    <a href="#">
+                        <figcaption class="hvr-float-shadow">Xem Thêm</figcaption>
+                    </a>
+                </figure>
+                <figure class="img-dong-san-pham">
+                    <img src="~/Content/assets/img/nb2.jpg" alt="">
+                    <a href="#">
+                        <figcaption class="hvr-float-shadow">Xem Thêm</figcaption>
+                    </a>
+                </figure>
+                <figure class="img-dong-san-pham">
+                    <img src="~/Content/assets/img/nb1.png" alt="">
+                    <a href="#">
+                        <figcaption class="hvr-float-shadow">Xem Thêm</figcaption>
+                    </a>
+                </figure>
+                <figure class="img-dong-san-pham">
+                    <img src="~/Content/assets/img/image2.jpg" alt="">
+                    <a href="#">
+                        <figcaption class="hvr-float-shadow">Xem Thêm</figcaption>
+                    </a>
+                </figure>
+                <figure class="img-dong-san-pham">
+                    <img src="~/Content/assets/img/h2.jpeg" alt="">
+                    <a href="#">
+                        <figcaption class="hvr-float-shadow">Xem Thêm</figcaption>
+                    </a>
+                </figure>
+            </div>
+        </div>
+
+        <div class="list-san-pham">
+            <div class="product-text">
+                <span>những sản phẩm mới về </span>
+            </div>
+            <div class="sp-box">
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao4.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Converse</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">350.000đ</p>
+                                    <p class="card_priceOriginal">510.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao3.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Adidas 3 sọc</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">250.000đ</p>
+                                    <p class="card_priceOriginal">500.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+                                </a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao2.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Fila</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">350.000đ</p>
+                                    <p class="card_priceOriginal">790.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao1.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Adidas</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">250.000đ</p>
+                                    <p class="card_priceOriginal">390.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/sp-moi-ve5.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Đồ Tập Gym</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">500.000đ</p>
+                                    <p class="card_priceOriginal">950.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao6.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Nike GD</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">400.000đ</p>
+                                    <p class="card_priceOriginal">690.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/giay-the-thao8.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Nike Classic</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">300.000đ</p>
+                                    <p class="card_priceOriginal">400.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sp1-box">
+                    <div class="card">
+                        <!-- <div class="cart_sale">Giam gia</div> -->
+                        <span class="card_more"></span>
+                        <div class="card_img">
+                            <img src="~/Content/assets/img/sp-moi-ve1.jpg" alt="#">
+                        </div>
+                        <div class="card_content">
+                            <article class="card_text">
+                                <h2 class="card_title">Quần Legin</h2>
+                                <div class="card_price">
+                                    <p class="card_priceFinal">450.000đ</p>
+                                    <p class="card_priceOriginal">590.000đ</p>
+                                </div>
+                            </article>
+                            <div class="card_icon">
+                                <a target="_blank" rel="noopener">
+                                    <button class="card_btn">
+                                        <span>Xem</span>
+                                    </button>
+
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="logo-nhan-hang">
+            <div class="product-text text-nhan">
+                <span>Các nhãn hàng nổi tiếng</span>
+            </div>
+            <div class="logo-image">
+                <div class="logo-image-item">
+                    <img src="~/Content/assets/img/logo-adidas.jpg" alt="">
+                </div>
+                <div class="logo-image-item">
+                    <img src="~/Content/assets/img/logo-nike.jpg" alt="">
+                </div>
+                <div class="logo-image-item item-puma">
+                    <img src="~/Content/assets/img/logo-puma.jpg" alt="">
+                </div>
+                <div class="logo-image-item item-fila">
+                    <img src="~/Content/assets/img/logo-fila.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>

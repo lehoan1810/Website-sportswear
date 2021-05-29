@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "View";
+    Layout = null;
+}
+@model banhang.Models.User
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>log Up</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/Content/assets/css/LogUpbase.css">
+    <link rel="stylesheet" href="~/Content/assets/css/LogUpmain.css">
+    <link rel="stylesheet" href="~/Content/fonts/Roboto-Regular.ttf">
+    <link rel="stylesheet" href="~/Content/fonts/Roboto-Medium.ttf">
+    <link rel="stylesheet" href="~/Content/fonts/Roboto-Light.ttf">
+    <link rel="stylesheet" href="~/Content/icon/fontawesome-free-5.14.0-web/css/all.min.css">
+    <style>
+        validation-span{
+            color:red;
+            font-size:12px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="cont">
+        @*<form action="/Home/LogUp" method="post">*@
+        @Html.ValidationSummary(true)
+        @using (Html.BeginForm("Validate", "Home"))
+        {
+            <h2>Sign Up</h2>
+            <label>
+                <span>name</span>
+                @*<input id="name" type="text" name="Name" value="@ViewBag.name">*@
+                @Html.TextBoxFor(m => m.Username)
+                @Html.ValidationMessageFor(m => m.Username)
+            </label>
+
+            <label>
+                <span>Email</span>
+                @*<input id="email" type="Email" name="Email" value="@ViewBag.email">*@
+                @Html.TextBoxFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Email)
+            </label>
+
+            <label>
+                <span>Password</span>
+                @*<input id="password" type="Password" name="password">*@
+                @Html.TextBoxFor(m => m.Password, new { type="password"})
+                @Html.ValidationMessageFor(m => m.Password)
+            </label>
+
+            <label>
+                <span>Confirm Password</span>
+                <input id="cpassword" type="Password" name="cpassword">
+            </label>
+
+            <input type="submit" value="Sign Up Now" />
+            <div class="sub-cont">
+                <div class="img">
+                    <div class="img-btn">
+                        <form style="display: inline" action="Home/Login" method="get">
+                            <button class="m-up">Log in</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+        @*</form>*@
+    </div>
+</body>
+
+</html>

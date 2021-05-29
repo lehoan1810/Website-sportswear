@@ -1,0 +1,548 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    font-family: 'Roboto',sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    background-color: #C2C2C2;
+}
+
+.header .container{
+    width: 1450px;
+    margin: 0px auto;
+    height: 80px;
+    position: relative;
+}
+
+.header .container div.logo{
+    width: 350px;
+    float: left;
+}
+
+.header .container div.logo a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 800;
+    color: #333;
+    display: block;
+    line-height: 80px;
+}
+
+.header .container div.contact-info{
+    float: left;
+    width: 790px;
+    height: 80px;
+
+}
+
+.header .container div.contact-info ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.contact-info{
+    position: absolute;
+    right: 0;
+}
+
+.header .container div.contact-info ul li{
+    display: inline-block;
+    height: 80px;
+    margin-left: 55px;
+}
+
+.header .container div.contact-info ul li .contact-icon{
+    float: left;
+    height: 80px;
+    width: 40px;
+    line-height: 80px;
+}
+
+.header .container div.contact-info ul li div.contact-text{
+    float: left;
+    height: 80px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.header .container div.contact-info ul li div.contact-text label{
+    width: 100%;
+    display: block;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.contact-icon i{
+    font-size: 22px;
+    color: #333;
+}
+
+.header .container div.contact-info ul li a.register{
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    width: 100px;
+    border-radius: 40px;
+    text-align: center;
+    background: #333;
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-top: 20px;
+}
+
+.logup{
+    margin-left: 90px;
+}
+
+.nav{
+    width: 100%;
+    background-image:linear-gradient(to right top, #dd4567, #d05295, #b167ba, #837ccf, #4d8bd3);
+    height: 50px;
+}
+
+.nav .container{
+    width: 1450px;
+    margin: 0px auto;
+}
+
+.menu {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 800px;
+}
+
+
+.menu a:hover{
+    color:#333;
+}
+
+.menu span:hover{
+    color:#333;
+}
+
+.menu li{
+    display: inline-block; 
+}
+/* bảng menu */
+.item{
+    text-decoration: none;
+    height: 50px;
+    display: block;
+    line-height: 50px;
+    color: #fff;
+    padding-right: 40px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.menu li:first-child .item{
+    color:#333;
+}
+
+.form-search{
+    width: 500px;
+    float:right;
+    position: relative;
+}
+
+.keyword{
+    width: 80%;
+    font-size: 16px;
+    border:1px solid #333;
+    height:35px;
+    margin-top: 7px;
+    text-indent: 15px;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    background: transparent;
+    outline: none;
+}
+
+.btn-search{
+    width: 25px;
+    height: 25px;
+    border: none;
+    position: absolute;
+    top: 13px;
+    right: 114px;
+    background: transparent;
+}
+
+.btn-search i{
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;  
+}
+
+.banner{
+    
+    background-color: gray;
+}
+
+.soccer-clothes-img{
+    width:600px;
+}
+
+.soccer-clothes-img img{
+    margin-left: 60px;
+}
+
+.img-sua img {
+    width: 262%;
+}
+
+.col-text{
+    flex-basis: 50%;
+    height: 100%;
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+.text-box{
+    font-size: 30px;
+    margin: 100px 0 10px 0;
+}
+
+.text-box h1{
+    width: 460px;
+    margin-left: 50px;
+}
+
+.text-box h5{
+    width: 400px;
+    padding-left: 90px;
+}
+
+.soccer-clothes-menu{
+    position: absolute; 
+    background-color: rgb(228, 222, 222);
+    list-style: none;
+    width: 112px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px #e0e0e0;
+    display: none;
+}
+
+.soccer-clothes-menu a{
+    margin-right: 0;
+    text-decoration: none;
+    line-height: 30px;
+    padding-left: 8px;
+    font-size: 14px;
+    color: rgb(124, 88, 88);
+}
+
+.soccer-clothes:hover .soccer-clothes-menu{
+    display: block;
+}
+/* sản phẩm */
+.background-main {
+    background-image: url(/Content/assets/img/background-main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-product{
+    
+}
+.text-name{
+    padding-top: 20px;
+    display: flex;
+}
+.text-name span{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+    min-width: 35px;
+    width: 38%;  
+    border-bottom: 5px double #333;
+    font-weight: 500;
+}
+
+.giaythethao-sp-img{
+    background-size:cover ;
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position:center;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;  
+}
+
+.giaythethao-item {
+    background-image: linear-gradient(to right top, #f7c3df, #ecc3e6, #e0c4eb, #d2c5ee, #c4c6ef, #b8caf5, #aacef9, #9bd2fa, #86dbff, #70e4fe, #5fecf7, #5df3ea);
+    width: 300px;
+    height: 410px;
+    margin: 15px 30px 15px 30px;
+    border-radius: 3px;
+}
+
+.giaythethao-sp{
+    text-decoration: none;
+}
+
+.giaythethao-list{
+    padding:30px 30px 0 30px;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.giaythethao-sp-name {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #333;
+}
+
+.giaythethao-sp-price{
+    width: 150px;
+}
+.giaythethao-sp-price-current{
+    padding-top: 5px;
+    font-size: 18px;
+    font-weight: 200;
+    color: #333;
+    padding-left: 15px;
+}
+
+.giaythethao-sp-action{
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    width: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.giaythethao-sp-action, .heart-icon{
+    padding-right: 10px;
+    
+}
+
+.cart-icon{
+    font-size: 30px;
+    padding-top: 3px;
+    padding-left: 10px;
+    color: rgb(95, 92, 92);
+    width: 10px;
+}
+
+.cart-box{
+    display: block;
+    width: 50px;
+    padding-bottom: 20px;
+}
+
+.cart-box i {
+    margin:-12px 0 0 100px;
+    border-radius: 50px;
+    border: 2px solid rgb(126, 123, 123);
+    width: 70px;
+    height: 38px;
+}
+
+.giaythethao-sp{
+    position: relative;
+    /* box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1); */
+    transition: transform linear 0.1s;
+    will-change: transform;
+}
+
+.giaythethao-sp :hover{
+    transform: translateY(-2px);
+    /* box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.05); */
+}
+.pagination-container {
+    display: flex;
+    font-size: 20px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pagination {
+    list-style: none;
+    display: flex;
+}
+.pagination-item{
+    margin: 0 12px;
+}
+.pagination li{
+    margin:15px;
+    font-weight:300;
+    display:block;
+}
+.pagination .active{
+    background-color:bisque;
+}
+a {
+    text-decoration:none;
+}
+/* Css footer */
+
+.sp1-name {
+    font-size: 16px;
+    width: 100px;
+}
+
+.sp1-price {
+    color: #333;
+    width: 100px;
+}
+
+.money {
+    line-height: 30px;
+}
+
+.sp1-action {
+    font-size: 16px;
+    width: 100px;
+    margin-left: 187px;
+}
+/* footer của trang web */
+.grid {
+    width: 1450px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.grid__full-width {
+    width: 100%;
+}
+
+.grid__row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+/* Test */
+.grid__column-2 {
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 16.667%;
+}
+
+.grid__column-2-4 {
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 20%;
+    line-height: 30px;
+}
+
+.grid__column-10 {
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 83.334%;
+}
+
+.footer {
+    /* border-top: 4px solid var(--primary-color); */
+    padding-top: 16px;
+    width: 100%;
+    height: 200px;
+    background-color: #C2C2C2;
+    margin-top: 50px;
+    position: relative;
+}
+
+.footer__heading {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #333;
+    border-bottom: 2px double #333;
+}
+
+.footer-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer-item__link {
+    text-decoration: none;
+    font-size: 15px;
+    color: #737373;
+    display: flex;
+    padding: 2px 0;
+    align-items: center;
+}
+
+    .footer-item__link:hover {
+        color: var(#333);
+    }
+
+.footer-item__icon {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.footer__download {
+    display: flex;
+    margin-top: 20px;
+}
+
+    .footer__download img {
+    }
+
+.footer__download-app-img {
+    height: 20px;
+}
+
+.footer__download-qr {
+    width: 90px;
+    height: 90px;
+    border: 1px solid #333;
+    margin-right: 16px;
+}
+
+.footer__download-app-link {
+    color: transparent;
+    text-decoration: none;
+}
+
+.footer__download-app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer__bottom {
+    padding: 8px 0;
+    background-color: #aaa5a5;
+    margin-top: 42px;
+}
+
+.footer__text {
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+
+.footer-img-link {
+    padding-top: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    box-shadow: 0 0 3px #d5d5d5;
+}
+
+.footer__heading {
+    font-size: 20px;
+}

@@ -1,0 +1,200 @@
+﻿@model IEnumerable<banhang.Models.User>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+<style>
+    .haha {
+        background-color: white;
+        padding: 10px;
+    }
+
+    table {
+        width: 100%;
+        padding: 10px;
+        border-collapse: collapse;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+
+    td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        color: black;
+    }
+
+    th {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background-color: #4d8bd3;
+        color: white;
+    }
+
+    .page-list a:hover {
+        background-color: #AD999A;
+    }
+
+    .page-list a {
+        text-decoration: none;
+        display: block;
+        height: 25px;
+        width: 40px;
+        background-color: #DEC6C7;
+        text-align: center;
+        padding-top: 4px;
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+    }
+
+    .btn-edit a {
+        text-decoration: none;
+        display: inline-block;
+        height: 27px;
+        width: 57px;
+        background-color: #DEC6C7;
+        text-align: center;
+        padding-top: 4px;
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+        color: saddlebrown;
+        border-radius: 10px;
+        border: 2px solid rgba(0, 0, 0, 0.3);
+        font-size: 14px;
+    }
+
+        .btn-edit a:hover {
+            background-color: burlywood;
+        }
+
+    .page-list ul {
+        display: flex;
+    }
+
+    .page-list li {
+        list-style: none;
+        margin: 15px -14px 15px 15px;
+        border: 2px solid #333;
+    }
+
+    .btn-edit {
+        width: 215px;
+        align-items: center;
+    }
+
+    .gear {
+        font-size: 28px;
+        color: black;
+    }
+
+    .btn-create a {
+        position: absolute;
+        text-decoration: none;
+        color: red;
+        line-height: 30px;
+        padding-left: 8px;
+        font-weight: 600;
+    }
+
+    .btn-create {
+        cursor: pointer;
+        display: inline-block;
+    }
+
+        .btn-create i {
+            font-size: 30px;
+        }
+
+    .form__horizontal {
+        position: absolute;
+        right: 212px;
+        top: 92px;
+    }
+
+        .form__horizontal i {
+            color: green;
+            font-size: 20px;
+        }
+
+        .form__horizontal label {
+            font-weight: 600;
+            color: red;
+        }
+
+        .form__horizontal input {
+            padding: 5px 0 5px 0;
+            font-size: 14px;
+        }
+
+    .btn-default {
+        width: 50px;
+        height: 24px;
+        line-height: 0px;
+        font-size: 15px;
+    }
+
+    .form-groupp {
+    }
+</style>
+
+<div class="haha">
+    <h2>Danh sách người dùng</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lever)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td name="id">
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lever)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Username }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Username }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Username })
+                </td>
+            </tr>
+        }
+
+
+
+    </table>
+
+</div>
+
+

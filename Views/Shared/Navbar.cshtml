@@ -1,0 +1,51 @@
+﻿<div class="nav">
+    <div class="container">
+        <ul class="menu">
+            <li>
+                <a href="/Home/TrangChu" class="item">Home</a>
+            </li>
+
+            <li class="soccer-clothes">
+                <!-- <a href="" class="item">Đồ bóng đá</a> -->
+                <div>
+                    <span class="item item-soccer"> Đồ Bóng Đá</span>
+                </div>
+
+                <ul class="soccer-clothes-menu">
+                    <li class="soccer-clothes-item">
+                        <a href="@Url.Action("SoccerClothes","Category",new { sub="GiayBongDa"})" style="text-decoration:none">Giày bóng đá</a>
+                    </li>
+                    <li class="soccer-clothes-item">
+                        <a href="@Url.Action("SoccerClothes","Category",new { sub="AoDoiTuyen"})" style="text-decoration:none">Áo Đội tuyển</a>
+                    </li>
+                    <li class="soccer-clothes-item">
+                        <a href="@Url.Action("SoccerClothes","Category",new { sub="AoCLB"})" style="text-decoration:none">Áo CLB</a>
+                    </li>
+                    <br />
+                    <li class="soccer-clothes-item">
+                        <a href="@Url.Action("SoccerClothes","Category",new { sub="Khác"})" style="text-decoration:none">Khác</a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="Gym-clothes">
+                <a href="@Url.Action("SoccerClothes","Category",new { sub = "DoTapGym"})" style="text-decoration:none" class="item">Đồ Tập Gym</a>
+            </li>
+
+            <li >
+                <a href="@Url.Action("SoccerClothes","Category",new { sub = "DoTapYoGa"})" style="text-decoration:none" class="item">Đồ Tập YoGa</a>
+            </li>
+
+            <li >
+                <a href="@Url.Action("SoccerClothes","Category",new { sub = "AoBra"})" style="text-decoration:none" class="item">Áo Bra</a>
+            </li>
+        </ul>
+        <div class="form-search">
+            <input type="text" class="keyword" placeholder="Search" />
+            <button type="submit" class="btn-search">
+                <i class="fas fa-search"></i>
+            </button>
+            <i class="header__cart-icon fas fa-shopping-cart">@Html.ActionLink("0", "ShoppingCart","Home")</i>
+        </div>
+    </div>
+</div>

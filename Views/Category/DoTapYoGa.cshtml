@@ -1,0 +1,79 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+@model PagedList.IPagedList<banhang.Models.Product>
+@using PagedList.Mvc;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/Content/assets/css/soccerClothes.css">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Regular.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Medium.ttf">
+    <link rel="stylesheet" href="~/Content/assets/fonts/Roboto-Light.ttf">
+    <link rel="stylesheet" href="~/Content/assets/icon/fontawesome-free-5.14.0-web/css/all.min.css">
+</head>
+<body>
+    @Html.Partial("Navbar")
+    @*<div class="banner">
+        <div class="col-text">
+            <div class="text-box">
+                <h5>UEFA Champions League</h5>
+                <h1>
+                    <b>The battle of</b><br>
+                    <b>ultimate</b>
+                    superstars
+                </h1>
+            </div>
+            <div class="soccer-clothes-img img-sua ">
+                <img src="~/Content/assets/img/7.jpg" alt="">
+            </div>
+        </div>
+    </div>*@
+    <div class="home-product background-main">
+        <div class="text-name">
+            <span>@ViewBag.Category</span>
+        </div>
+        <div class="giaythethao-list">
+            @foreach (var product in Model)
+            {
+                <div class="giaythethao-item">
+                    <a href="~/Products/Details/@product.idProduct" class="giaythethao-sp">
+                        @{
+                            if (product.Image != null)
+                            {
+                                var imgSrc = String.Format(@"url(/upload/{0})", product.Image);
+                                <div class="giaythethao-sp-img"
+                                     style="background-image: @imgSrc"></div>
+                            }
+                            else
+                            {
+
+                                <div class="giaythethao-sp-img"
+                                     style="">Không có hình</div>
+                            }
+                            <h4 class="giaythethao-sp-name">
+                                @product.ProductName
+                            </h4>
+                            <div class="giaythethao-sp-price">
+                                <div class="giaythethao-sp-price-current">@product.Price đ</div>
+                            </div>
+                        }
+                        <div class="giaythethao-sp-action">
+                            <i class="fas fa-heart heart-icon"></i>
+                            <i class="fas fa-heart heart-icon"></i>
+                            <i class="fas fa-heart heart-icon"></i>
+                            <div class="cart-box">
+                                <i class="fas fa-shopping-cart cart-icon"></i>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+        @Html.PagedListPager(Model, page => Url.Action("SoccerClothes", new { page }))
+    </div>
+</body>
+</html>
